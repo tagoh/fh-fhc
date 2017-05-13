@@ -28,7 +28,7 @@ To do that, you should organize your resources in the following way:
  4. For ios resources, each of them should have one parent directory indicating its config.
  5. If more than one resource file is found for one set of configuration, no file will be uploaded for that configuration.
 
-
+ 
 	Example:
 	--Resources
 	 |--iphone
@@ -41,6 +41,3 @@ To do that, you should organize your resources in the following way:
 	 |--blackberry
 	   |--sigtool.csk
 	   |--sigtool.db
-
- 6. foo
- 7. foo
