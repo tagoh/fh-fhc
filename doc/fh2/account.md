@@ -40,6 +40,7 @@ To do that, you should organize your resources in the following way:
    |--blackberry
      |--sigtool.csk
      |--sigtool.db
+abc
 
  6. foo
  7. foo
