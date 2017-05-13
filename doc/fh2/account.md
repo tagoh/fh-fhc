@@ -41,3 +41,5 @@ To do that, you should organize your resources in the following way:
      |--sigtool.csk
      |--sigtool.db
 
+ 6. foo
+ 7. foo
